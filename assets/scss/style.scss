@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+
+  main {
+    h3 {
+      color: white;
+    }
+    div {
+      color: white;
+    }
+  }
+  footer {
+    color: white;
+    .row {
+      margin: 1em 0;
+    }
+
+    button {
+      background-color: black;
+      color: white !important;
+      border: 2px solid white !important;
+      margin-top: 2em;
+    }
+  }
+}
